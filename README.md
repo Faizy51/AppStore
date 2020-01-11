@@ -5,6 +5,9 @@ An iOS application imitating the UI and functionalities of the Native [App Store
 ### Video Demo
 ![](demo.gif)
 
+View full functionality here:
+https://www.youtube.com/watch?v=nZx5QIaKElc
+
 ### Functionalities:
 * View the top charts applications of the corresponding day 
 * Search the application by its name, developer etc.
